@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Docker/Jenkins Learning By Chirag Jhamnani</h1>
+    <h1>New user Register for DevOps Docker/Jenkins/Ansible Learning By Chirag Jhamnani</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy DevOps Learning On Udemy </h1>
+   <h1> Thankyou, Happy DevOps Learning BY CJ </h1>
 
   
 </form>
