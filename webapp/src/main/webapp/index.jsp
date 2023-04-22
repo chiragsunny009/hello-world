@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Docker/Jenkins/Ansible Learning By Chirag Jhamnani</h1>
-    <p>Please fill in this form to create an account.</p>
+    <h1>New user Register for DevOps Docker/Jenkins/Ansible Learning By CJ</h1>
+    <p>Please fill in this form to create an account.</p
     <hr>
      
     <label for="Name"><b>Enter Your Name</b></label>
