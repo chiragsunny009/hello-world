@@ -4,8 +4,8 @@
     <p>Please fill in this form to create an account.</p
     <hr>
      
-    <label for="Name"><b>Enter Your Name</b></label>
-    <input type="text" placeholder="Enter Your Full Name" name="Name" id="Name" required>
+    <label for="Name"><b>Enter Name</b></label>
+    <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
     <br>
     
     <label for="mobile"><b>Enter Your mobile</b></label>
@@ -13,7 +13,7 @@
     <br>
 
     <label for="email"><b>Enter Email</b></label>
-    <input type="text" placeholder="Enter Your Email Address" name="email" id="email" required>
+    <input type="text" placeholder="Enter Email Address" name="email" id="email" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
